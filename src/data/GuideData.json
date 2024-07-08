@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "firstName": "Diego",
+    "lastName": "Pérez",
+    "age": 35,
+    "phone": "+507 1234-5678",
+    "province": "Cocle",
+    "image": "/guide.jpg",
+    "description": "Guía turístico con más de 10 años de experiencia en la región."
+  },
+  {
+    "id": 2,
+    "firstName": "Ana",
+    "lastName": "Gómez",
+    "age": 28,
+    "phone": "+507 2345-6789",
+    "province": "Cocle",
+    "image": "/guide2.jpg",
+    "description": "Especialista en turismo ecológico y tours de aventura."
+  },
+  {
+    "id": 3,
+    "firstName": "Carlos",
+    "lastName": "Martínez",
+    "age": 42,
+    "phone": "+507 3456-7890",
+    "province": "Chiriqui",
+    "image": "/guide3.jpg",
+    "description": "Experto en historia local y guías de patrimonio cultural."
+  },
+  {
+    "id": 4,
+    "firstName": "María",
+    "lastName": "Rodríguez",
+    "age": 30,
+    "phone": "+507 4567-8901",
+    "province": "Panama",
+    "image": "/guide4.jpg",
+    "description": "Guía bilingüe con experiencia en tours de naturaleza y vida silvestre."
+  },
+  {
+    "id": 5,
+    "firstName": "Pedro",
+    "lastName": "Fernández",
+    "age": 38,
+    "phone": "+507 5678-1234",
+    "province": "Panama",
+    "image": "/guide5.png",
+    "description": "Guía con especialidad en observación de aves y rutas largas."
+  },
+  {
+    "id": 6,
+    "firstName": "Laura",
+    "lastName": "Méndez",
+    "age": 27,
+    "phone": "+507 6789-1234",
+    "province": "Chiriqui",
+    "image": "/guide6.jpg",
+    "description": "Guía bilingüe con experiencia en tours de naturaleza y vida silvestre."
+  },
+  {
+    "id": 7,
+    "firstName": "Javier",
+    "lastName": "López",
+    "age": 33,
+    "phone": "+507 7890-2345",
+    "province": "Veraguas",
+    "image": "/guide7.jpg",
+    "description": "Guía experto en ecoturismo marino y conservación de la vida marina."
+  },
+  {
+    "id": 8,
+    "firstName": "Lucía",
+    "lastName": "Vargas",
+    "age": 29,
+    "phone": "+507 8901-3456",
+    "province": "Panama Oeste",
+    "image": "/guide8.jpg",
+    "description": "Guía con conocimientos en historia local y ecoturismo."
+  },
+  {
+    "id": 9,
+    "firstName": "Roberto",
+    "lastName": "García",
+    "age": 31,
+    "phone": "+507 9012-4567",
+    "province": "Bocas del Toro",
+    "image": "/guide9.jpg",
+    "description": "Especialista en guías de aventura y ecoturismo en las islas."
+  },
+  {
+    "id": 10,
+    "firstName": "Luisa",
+    "lastName": "González",
+    "age": 29,
+    "phone": "+507 9012-3456",
+    "province": "Herrera",
+    "image": "/guide10.jpg",
+    "description": "Guía con conocimientos en turismo histórico y cultural."
+  }
+]
+

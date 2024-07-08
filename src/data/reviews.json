@@ -1,0 +1,102 @@
+[
+  { "productId": 1, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 1, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 1,
+    "rating": 3,
+    "comment": "Buen tour, paisajes impresionantes."
+  },
+  {
+    "productId": 1,
+    "rating": 5,
+    "comment": "Increíble experiencia, definitivamente recomendado."
+  },
+  { "productId": 2, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 2, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 2,
+    "rating": 3,
+    "comment": "Excelente sendero, vistas espectaculares."
+  },
+  {
+    "productId": 2,
+    "rating": 4,
+    "comment": "Buena experiencia, recomendaría."
+  },
+  { "productId": 3, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 3, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 3,
+    "rating": 3,
+    "comment": "Interesante ruta, buen momento para la observación de aves."
+  },
+  {
+    "productId": 3,
+    "rating": 4,
+    "comment": "Recomendado para los amantes de la naturaleza."
+  },
+  { "productId": 4, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 4, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 4,
+    "rating": 3,
+    "comment": "Sendero desafiante pero gratificante."
+  },
+  {
+    "productId": 4,
+    "rating": 4,
+    "comment": "Gran experiencia, volvería a hacerlo."
+  },
+  { "productId": 5, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 5, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 5,
+    "rating": 3,
+    "comment": "Buena caminata, vistas decentes."
+  },
+  {
+    "productId": 5,
+    "rating": 4,
+    "comment": "Buena ruta para una caminata rápida."
+  },
+  { "productId": 6, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 6, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 6,
+    "rating": 3,
+    "comment": "Ruta exigente pero muy gratificante."
+  },
+  {
+    "productId": 6,
+    "rating": 4,
+    "comment": "Disfruté mucho del sendero, aunque fue difícil."
+  },
+  { "productId": 7, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 7, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 7,
+    "rating": 3,
+    "comment": "Impresionantes vistas del bosque lluvioso."
+  },
+  { "productId": 7, "rating": 4, "comment": "Buena experiencia en general." },
+  { "productId": 8, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 8, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 8,
+    "rating": 3,
+    "comment": "Caminata desafiante, pero las vistas valen la pena."
+  },
+  { "productId": 8, "rating": 4, "comment": "Gran experiencia de escalada." },
+  { "productId": 9, "rating": 5, "comment": "¡Excelente viaje!" },
+  { "productId": 9, "rating": 4, "comment": "Muy bueno, pero podría mejorar." },
+  {
+    "productId": 9,
+    "rating": 3,
+    "comment": "Increíble biodiversidad y vida marina."
+  },
+  {
+    "productId": 9,
+    "rating": 4,
+    "comment": "Lugar impresionante para bucear y snorkelear."
+  }
+]

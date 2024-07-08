@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Cerro Punta",
+    "image": "cerro_punta.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Parque Nacional Santa Fe",
+    "image": "santa_fe.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cerro Marta, Coclé",
+    "image": "cerro_marta.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pipelina Trail, Boquete",
+    "image": "pipeline_trail.jpg"
+  }
+]

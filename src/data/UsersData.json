@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Juan",
+    "lastname": "Pérez",
+    "email": "juan@example.com",
+    "password": "password123",
+    "country": "Argentina",
+    "identification": "12345678",
+    "age": 30,
+    "phone": "1234567890"
+  },
+  {
+    "name": "María",
+    "lastname": "González",
+    "email": "maria@example.com",
+    "password": "password456",
+    "country": "Mexico",
+    "identification": "87654321",
+    "age": 25,
+    "phone": "9876543210"
+  },
+  {
+    "name": "Carlos",
+    "lastname": "Martínez",
+    "email": "carlos@example.com",
+    "password": "password789",
+    "country": "España",
+    "identification": "54321678",
+    "age": 28,
+    "phone": "5678901234"
+  }
+]

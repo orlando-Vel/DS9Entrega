@@ -1,0 +1,180 @@
+[
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cefd"
+    },
+    "id": 1,
+    "image": "/cerro_punta.jpg",
+    "images": ["/cerro_punta.jpg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Cerro Punta, Chiriquí",
+    "description": "Visita las hermosas tierras altas de Panamá",
+    "price": 50,
+    "duration": 1,
+    "province": "Chiriquí",
+    "reviews": [
+      "6674fefe93bd132eb83a3182",
+      "6674fefe93bd132eb83a3183",
+      "6674fefe93bd132eb83a3184",
+      "6674fefe93bd132eb83a3185"
+    ],
+    "__v": 6
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cefe"
+    },
+    "id": 2,
+    "image": "/cerro_marta.jpg",
+    "images": ["/cerro_marta.jpg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Sendero Cerro Marta, Veraguas",
+    "description": "El camino comienza en la comunidad de Santa Marta y gran parte es usado por personas que viven allí o en comunidades cercanas.",
+    "price": 50,
+    "duration": 1,
+    "province": "Veraguas",
+    "reviews": [
+      "6678b043d210fae563f8e03d",
+      "6674fefe93bd132eb83a3186",
+      "6674fefe93bd132eb83a3187",
+      "66750235202f85065222bfc0",
+      "667503665ee69b821088a1aa",
+      "667619aa62f3f1ab5ca9a0c9"
+    ],
+    "__v": 7
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051ceff"
+    },
+    "id": 3,
+    "image": "/pipeline_road.jpeg",
+    "images": ["/pipeline_road.jpeg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Pipeline Road, Panamá",
+    "description": "Prueba esta ruta de ida y vuelta de 7,2-km cerca de Ciudad de Colón, Provincia de Colón. Por lo general, se considera una ruta moderada, que se tarda una media de 2 h 9 min en recorrer.",
+    "price": 50,
+    "duration": 1,
+    "province": "Panamá",
+    "reviews": [
+      "6674fefe93bd132eb83a318a",
+      "6674fefe93bd132eb83a318b",
+      "6674fefe93bd132eb83a318c",
+      "6674fefe93bd132eb83a318d"
+    ],
+    "__v": 2
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf00"
+    },
+    "id": 4,
+    "image": "/el_pianista.jpg",
+    "images": ["/el_pianista.jpg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Sendero el Pianista, Chiriquí",
+    "description": "Explora esta ruta de ida y vuelta de 7,9-km cerca de Boquete, Provincia de Chiriquí. Por lo general, se considera una ruta difícil, que se tarda una media de 3 h 27 min en recorrer. Es una región muy popular para el senderismo, por lo que es probable encontrarse con otras personas mientras se está por la zona.",
+    "price": 50,
+    "duration": 1,
+    "province": "Chiriquí",
+    "reviews": [
+      "6678b08cd210fae563f8e04e",
+      "6674fefe93bd132eb83a318e",
+      "6674fefe93bd132eb83a318f",
+      "6674fefe93bd132eb83a3190",
+      "6674fefe93bd132eb83a3191"
+    ],
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf01"
+    },
+    "id": 5,
+    "image": "/la_cruz.jpeg",
+    "images": ["/la_cruz.jpeg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Sendero La Cruz, Coclé",
+    "description": "Ve a la aventura en esta ruta circular de 3,4-km cerca de Antón, Provincia de Coclé. Por lo general, se considera una ruta moderada, que se tarda una media de 1 h 38 min en recorrer.",
+    "price": 50,
+    "duration": 1,
+    "province": "Coclé",
+    "reviews": [
+      "6674fefe93bd132eb83a3192",
+      "6674fefe93bd132eb83a3193",
+      "6674fefe93bd132eb83a3194",
+      "6674fefe93bd132eb83a3195"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf02"
+    },
+    "id": 6,
+    "image": "/jaguar_falls.jpg",
+    "images": ["/jaguar_falls.jpg", "/cerro_marta.jpg", "/el_pianista.jpg"],
+    "title": "Jaguar Falls, Panamá",
+    "description": "Prueba esta ruta de ida y vuelta de 10,6-km cerca de Panamá, Panamá. Por lo general, se considera una ruta difícil, que se tarda una media de 3 h 16 min en recorrer. Esta ruta es excelente para disfrutar de la observación de aves y el senderismo",
+    "price": 50,
+    "duration": 1,
+    "province": "Panamá",
+    "reviews": [
+      "6674fefe93bd132eb83a3196",
+      "6674fefe93bd132eb83a3197",
+      "6674fefe93bd132eb83a3198",
+      "6674fefe93bd132eb83a3199"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf03"
+    },
+    "id": 7,
+    "image": "/la_cascada.jpg",
+    "images": ["/la_cascada.jpg", "/la_cascada1.jpg", "/sendero.jpg"],
+    "title": "Sendero Bosque Lluvioso, Bocas del Toro",
+    "description": "Explora las profundidades del bosque lluvioso en la provincia de Bocas del Toro. Este sendero serpentea entre árboles centenarios y ofrece vistas impresionantes de la flora y fauna local.",
+    "price": 60,
+    "duration": 2,
+    "province": "Bocas del Toro",
+    "reviews": [
+      "6674fefe93bd132eb83a319a",
+      "6674fefe93bd132eb83a319b",
+      "6674fefe93bd132eb83a319c",
+      "6674fefe93bd132eb83a319d"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf04"
+    },
+    "id": 8,
+    "image": "/cerro_gaital.jpg",
+    "images": ["/cerro_gaital.jpg", "/cerro_gaital1.jpg", "/cerro_gaital2.jpg"],
+    "title": "Cerro Gaital, Panamá Oeste",
+    "description": "Embárcate en una aventura de escalada en el Cerro Gaital, ubicado en la provincia de Panamá Oeste. Disfruta de vistas panorámicas impresionantes desde la cima después de una caminata desafiante pero gratificante.",
+    "price": 70,
+    "duration": 4,
+    "province": "Panamá Oeste",
+    "reviews": [
+      "6674fefe93bd132eb83a319e",
+      "6674fefe93bd132eb83a319f",
+      "6674fefe93bd132eb83a31a0",
+      "6674fefe93bd132eb83a31a1"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "667255cce7d5d0e3f051cf05"
+    },
+    "id": 9,
+    "image": "/isla_coiba.jpg",
+    "images": ["/isla_coiba.jpg", "/isla_coiba1.jpg", "/buceo.jpg"],
+    "title": "Isla Coiba, Veraguas",
+    "description": "Descubre la biodiversidad marina y terrestre en Isla Coiba, un paraíso natural y reserva de la biosfera en la provincia de Veraguas. Disfruta de actividades como buceo, snorkel y observación de aves.",
+    "price": 80,
+    "duration": 3,
+    "province": "Veraguas",
+    "reviews": [
+      "6674fefe93bd132eb83a31a2",
+      "6674fefe93bd132eb83a31a3",
+      "6674fefe93bd132eb83a31a4",
+      "6674fefe93bd132eb83a31a5"
+    ]
+  }
+]
